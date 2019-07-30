@@ -1,9 +1,5 @@
 Agile-Boot 快速开发平台
 ===============
-
-当前最新版本： 2.0.2（发布日期：20190708）
-
-
 ## 后端技术架构
 - 基础框架：Spring Boot 2.1.3.RELEASE
 
@@ -32,18 +28,6 @@ Agile-Boot 快速开发平台
 - 数据库：MySQL5.0  &  Oracle 11g
 
 - 缓存：Redis
-
-
-## 技术文档
-
-
-- 在线演示 ：  [http://boot.jeecg.org](http://boot.jeecg.org)
-
-- 在线教程：  [http://jeecg-boot.mydoc.io/?t=345660](http://jeecg-boot.mydoc.io/?t=345660)
-
-- 常见问题：  [入门常见问题大全](http://www.jeecg.org/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
-
-- QQ交流群 ：  ①284271917、②769925425
 
 
 ## 专项文档
@@ -94,17 +78,7 @@ QueryWrapper<?> queryWrapper = QueryGenerator.initQueryWrapper(?, req.getParamet
   [在线文档](https://github.com/zhangdaiscott/autopoi)
   
 
-
-#### 三、代码生成器
-
-> 功能说明：   一键生成的代码（包括：controller、service、dao、mapper、entity、vue）
- 
- - 模板位置： src/main/resources/jeecg/code-template
- - 技术文档： http://jeecg-boot.mydoc.io/?t=345685
-
-
-
-#### 四、编码排重使用示例
+#### 三、编码排重使用示例
 
 重复校验效果：
 ![输入图片说明](https://static.oschina.net/uploads/img/201904/19191836_eGkQ.png "在这里输入图片标题")
